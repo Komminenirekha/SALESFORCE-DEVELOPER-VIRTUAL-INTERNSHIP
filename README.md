@@ -37,6 +37,11 @@ Apex code samples
 LWC practice components             
 Automation (Flow/Process Builder) 
 
+## 📄 View My Project Report  
+
+📘 Project Report: [Click here to view](https://drive.google.com/file/d/1FzrXradssdd0mUGUzk1hSJEgvNRoW_qX/view?usp=drive_link)
+
+
 📫 **Contact**
 
 Rekha Chowdary Kommineni         

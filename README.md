@@ -9,19 +9,19 @@ This internship provided hands-on learning in Salesforce Administration, Develop
 
 📚 **Modules Completed**
 
-Salesforce Fundamentals
-Organizational Setup
-Relationship & Process Automation
-Types of Flows & Security
-Apex Programming
-Testing & Debugging
-VS Code Setup & Salesforce CLI
-Lightning Web Components (LWC)
-API & Integrations
+Salesforce Fundamentals        
+Organizational Setup       
+Relationship & Process Automation          
+Types of Flows & Security         
+Apex Programming            
+Testing & Debugging            
+VS Code Setup & Salesforce CLI        
+Lightning Web Components (LWC)            
+API & Integrations 
 
 🏅 **Superbadges Earned**
 
-Apex Specialist
+Apex Specialist        
 Process Automation Specialist
 
 📄 **Certificate**
@@ -39,7 +39,7 @@ Automation (Flow/Process Builder)
 
 📫 **Contact**
 
-Rekha Chowdary Kommineni
+Rekha Chowdary Kommineni         
 Phone:7901266761           
 Email: rekhachowdarykommineni@gmail.com           
 Location: Mangalam,Tirupati-517507
